@@ -1,6 +1,9 @@
 Number Formatter
 =========
 
+[![Build Status](https://travis-ci.org/beaharvie/number-formatter.svg?branch=master)](https://travis-ci.org/beaharvie/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/beaharvie/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/beaharvie/number-formatter?branch=master)
+
 A small library that adds commas to numbers
 
 ## Installation
